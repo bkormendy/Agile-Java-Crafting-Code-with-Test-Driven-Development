@@ -1,6 +1,8 @@
-class Student {
+package studentinfo;
+
+public class Student {
     private String name;
-    Student(String name) {
+    public Student(final String name) {
         this.name = name;
     }
     String getName() {

@@ -1,3 +1,5 @@
+package studentinfo;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class StudentTest extends junit.framework.TestCase {
